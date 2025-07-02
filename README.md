@@ -1,0 +1,1 @@
+© 2025 Ariel Ferrandin Morgan. Todos os direitos reservados.
