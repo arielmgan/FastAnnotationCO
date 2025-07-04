@@ -1,4 +1,6 @@
-﻿namespace FastAnnotationCO.ViewModels
+﻿using Avalonia.Input;
+
+namespace FastAnnotationCO.ViewModels
 {
     public partial class MainWindowViewModel : ViewModelBase
     {
